@@ -1,2 +1,4 @@
 # Journal
-A command line journaling system.
+A command line journal system.
+
+Fairly basic, notes current date and time and outputs to txt file.
